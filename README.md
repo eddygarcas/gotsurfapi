@@ -24,7 +24,7 @@ Run the rails console an type the following command:
 irb(main):004:0> JsonWebToken.encode({sub:1})
 => "eyJhbGcisdfgsdJIUzI1NiJ9.eyJzdWIiOjEsdfsdsdszNjAxOTAzOH0.LwcpJ-3XW_pxocfdgfgdfg8oio7Kl0wuD3SYa60xcM"
 ```
-Use this generated token on your Bot application to make the call towards the service.
+Use this token on your Bot application to make the call towards the service, it will expire on a year.
 
 ## Built With
 

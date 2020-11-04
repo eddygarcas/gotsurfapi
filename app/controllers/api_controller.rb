@@ -33,6 +33,8 @@ class ApiController < ApplicationController
     end
   end
 
+  #The Bot will call the service adding the Authorization token generated when the user was created
+  #   response = self.class.get('/spots', headers: {"Authorization" => "Bearer #{ENV[:SERVICE_TOKEN.to_s]}"})
   def auth_token
     @auth_token ||= request.headers.fetch("Authorization","").split(" ").last
   end
