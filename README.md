@@ -1,6 +1,4 @@
-![Image of Vortrics](public/images/voardtrix_logo.png)
-
-# GotSurf Servicce ![Heroku](http://heroku-badges.herokuapp.com/?got-surf-service&root=/)
+# GotSurf Service ![Heroku](http://heroku-badges.herokuapp.com/?app=got-surf-service&root=/)
 
 ### Prerequisites
 
