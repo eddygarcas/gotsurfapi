@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  spot: one
+  date: 2020-05-27 17:36:57
+  wind: 1.5
+  winddir: MyString
+  swelldir: MyString
+  height: 1.5
+  period: 1.5
+
+two:
+  spot: two
+  date: 2020-05-27 17:36:57
+  wind: 1.5
+  winddir: MyString
+  swelldir: MyString
+  height: 1.5
+  period: 1.5
